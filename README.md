@@ -3,6 +3,7 @@ JavaScript-Image-Captions
 
 Simple javascript &amp; CSS to create a nice image hover w/ caption effect
 
+REQUIRES jQuery 1.6+
 
 Include both files into your document.
 
